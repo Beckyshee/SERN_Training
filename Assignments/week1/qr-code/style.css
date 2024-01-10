@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:  #D5E8F3;
+    font-family: 'Outfit', sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+h3{
+    font-size: 15px;
+    padding: 30px; 
+    margin-top: -30px; 
+}
+
+p{
+    margin-top: -30px;
+    font-size: 15px;
+    padding: 10px;
+    color: gray;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    padding: 15px;
+}
+.container{
+    background-color:white ;
+    width: 260px;
+    height: 370px;
+    border-radius: 11px;
+   text-align: center;
+   
+}
