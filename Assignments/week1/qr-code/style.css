@@ -12,12 +12,16 @@ body{
 
 }
 h3{
+    align-items: center;
+    justify-content: center;
     font-size: 15px;
     padding: 30px; 
     margin-top: -30px; 
 }
 
 p{
+    align-items: center;
+    justify-content: center;
     margin-top: -30px;
     font-size: 15px;
     padding: 10px;
@@ -31,10 +35,12 @@ img{
     padding: 15px;
 }
 .container{
+    
     background-color:white ;
     width: 260px;
     height: 370px;
     border-radius: 11px;
-   text-align: center;
+    margin: 10% 45%;
+    text-align: center;
    
 }
